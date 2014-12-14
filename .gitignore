@@ -6,6 +6,8 @@ env
 .tox
 hashindex.c
 chunker.c
+/attic/crypto.c
+/attic/platform_darwin.c
 *.egg-info
 *.pyc
 *.pyo
